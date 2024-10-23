@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "product": "hcp-server",
+      "branding": "pmc",
+      "arch": "x86_64",
+      "os": "linux",
+      "version": "3.47.1",
+      "buildTimestamp": 1724435512336,
+      "uri": "https://cdn.everyoneprint.com/pmc-server-3.47.1-pmc-update-linux-x86_64.tar",
+      "setupUri": "https://cdn.everyoneprint.com/pmc-server-3.47.1-pmc-setup-linux-x86_64.bin"
+    },
+    {
+      "product": "hcp-server",
+      "branding": "hcp",
+      "arch": "armv7",
+      "os": "linux",
+      "version": "3.47.1",
+      "buildTimestamp": 1724435512336,
+      "uri": "https://cdn.everyoneprint.com/safeq-cloud-server-3.47.1-update-linux-armv7.tar",
+      "setupUri": "https://cdn.everyoneprint.com/safeq-cloud-server-3.47.1-setup-linux-armv7.bin"
+    },
+    {
+      "product": "hcp-server",
+      "branding": "hcp",
+      "arch": "x86_64",
+      "os": "linux",
+      "version": "3.49.12",
+      "buildTimestamp": 1724435512336,
+      "uri": "https://cdn.everyoneprint.com/safeq-cloud-server-3.49.12-update-linux-x86_64.tar",
+      "setupUri": "https://cdn.everyoneprint.com/safeq-cloud-server-3.49.12-setup-linux-x86_64.bin"
+    }
+  ]
+}
